@@ -1,5 +1,7 @@
 # todo: A basic API for a todo list using LoopBack 4.
 
+![image](https://user-images.githubusercontent.com/77608824/119169792-ccb0b600-ba38-11eb-9afb-81a1769c97ce.png)
+
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
