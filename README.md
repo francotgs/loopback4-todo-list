@@ -1,2 +1,5 @@
-# LoopBack 4 Todo-list
-How to create a basic API for a todo list using LoopBack 4
+# LoopBack 4 Todo-list Application
+
+- todo: A basic API for a todo list using LoopBack 4.
+
+- todo-list: Creating a set of APIs for models that are related to one another using LoopBack 4.
