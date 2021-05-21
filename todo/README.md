@@ -1,4 +1,4 @@
-# todo: A basic API for a todo list using LoopBack 4.
+# Todo: A basic API for a todo list using LoopBack 4.
 
 ![image](https://user-images.githubusercontent.com/77608824/119169792-ccb0b600-ba38-11eb-9afb-81a1769c97ce.png)
 
